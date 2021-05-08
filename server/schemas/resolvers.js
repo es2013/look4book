@@ -1,5 +1,5 @@
 //import models
-const { User } = require('../models');
+const { User, Book } = require('../models');
 
 const resolvers = {
 
