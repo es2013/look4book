@@ -7,7 +7,6 @@ import { useMutation } from '@apollo/react-hooks';
 import { LOGIN_USER } from '../utils/mutations';
 
 
-
 const LoginForm = () => {
   // set initial form state
   const [userFormData, setUserFormData] = useState({ email: '', password: '' });
@@ -50,7 +49,7 @@ const LoginForm = () => {
     setUserFormData({
       username: '',
       email: '',
-      password: '',
+      password: ''
     });
   };
 

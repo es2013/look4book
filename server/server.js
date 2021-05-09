@@ -15,8 +15,8 @@ const { typeDefs, resolvers } = require('./schemas');
 const { authMiddleware } = require('./utils/auth');
 const server = new ApolloServer({
   typeDefs,
-  resolvers,
-  context:authMiddleware
+  resolvers
+  // context:authMiddleware
 });
 
 const app = express();
