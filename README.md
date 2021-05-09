@@ -20,3 +20,4 @@ A MERN app that uses Google Books API to search for for books. It includes login
 ![Search for books](./img/look4book.gif)
 
 ## Deployed Links
+[heroku](https://look4book-2021.herokuapp.com/)
