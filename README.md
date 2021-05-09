@@ -4,7 +4,7 @@ A MERN app that uses Google Books API to search for for books. It includes login
 # Table of Contents
 * [Technology Used](#technology-used)
 * [Usage](#usage)
-* [DeployedLinks](#deployed Links)
+* [DeployedLinks](#deployed)
 
 ## Technology Used
 - Express.js
